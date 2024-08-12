@@ -1,2 +1,2 @@
-*.python linguist-detectable=true
-*.sql linguist-detectable=true
+autoFristen.py linguist-language=Python
+autoFristen.py linguist-language=SQL
