@@ -23,12 +23,4 @@ This was scripted in Python 3.12.2
 
 ### Libraries
 
-PySide6
-datetime
-openpyxl
-pyodbc
-json
-locale
-pandas
-os
-csv
+PySide6, datetime, openpyxl, pyodbc, json, locale, pandas, os, csv
