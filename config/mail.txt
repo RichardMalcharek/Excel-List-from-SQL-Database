@@ -1,0 +1,7 @@
+<p style='font-family:Arial; font-size:10pt;'>
+Hallo,<br>
+<br>
+nächste Liste am [@Next]<br>
+bearbeiten bis [@Bearbeitung]<br>
+<br>
+</p>
