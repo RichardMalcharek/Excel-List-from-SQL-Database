@@ -1,4 +1,4 @@
 autoFristen.py linguist-language=SQL
 frm_main.py linguist-language=Python
-constants.json linguist-language=json
-dokumentation.csv linguist-language=csv
+config\constants.json linguist-language=json
+config\dokumentation.csv linguist-language=csv
